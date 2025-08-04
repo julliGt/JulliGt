@@ -1,4 +1,4 @@
-![Juls's GitHub Stats](https://github-readme-stats.vercel.app/api?username=julliGt&show_icons=true&theme=greywhite private=true)
+![Juls's GitHub Stats](https://github-readme-stats.vercel.app/api?username=julliGt&show_icons=true&theme=greywhite&count private=true)
 
 Olá, meu nome é Juls!
 
